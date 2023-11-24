@@ -3,7 +3,6 @@
 }
 
 
-
 body {
     background-image: url("/public/assets/src/img/6092319.jpg");
     background-size: cover;
@@ -40,6 +39,7 @@ h1 {
     flex-direction: column;
     height: 20em; 
     margin-bottom: 2%;
+  
 }
 
 .keyboard_section {
@@ -102,5 +102,8 @@ button:hover {
     }
     .calculator {
         margin-top: 5%;
+    }
+    .btn {
+        font-size: 1.5em;
     }
 }
