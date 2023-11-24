@@ -2,12 +2,7 @@
     margin:0;
 }
 
-@media only screen and (max-width:375px) {
-    .calculator {
-        display:flex;
-        width: 100%;
-    }
-}
+
 
 body {
     background-image: url("/public/assets/src/img/6092319.jpg");
@@ -32,9 +27,8 @@ h1 {
 .display {
     width: 80%;
     text-align: right;
-    height: 4em;
     font-family: 'VT323', monospace;
-    font-size: 2em;
+    font-size: 4em;
     background-color: #CDC2FF;
     margin-bottom: 2%;
     margin-top: 2%;
@@ -64,3 +58,49 @@ h1 {
     font-family: 'Luckiest Guy', cursive;
 }
 
+#result {
+    width: 220%;
+}
+
+#clear {
+    width: 220%;
+    color: red;
+}
+
+#remove img {
+    width: 70%;
+}
+
+button:hover {
+    background-color: #FABF32;
+}
+
+@media only screen and (max-width:375px) {
+    .calculator {
+        display:flex;
+        width: 100%;
+    }
+    button:hover {
+        background-color: #FABF32;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+	#remove img {
+        width: 10%;
+    }
+    #result {
+        width: 205%;
+    }
+    #clear {
+        width: 205%;
+        color: red;
+    }
+
+    h1 {
+        margin-top: 5%;
+    }
+    .calculator {
+        margin-top: 5%;
+    }
+}
