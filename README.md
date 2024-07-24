@@ -12,12 +12,12 @@ Financial calculator developed in JavaScript that can perform basic operations w
 
 * Clone this repository:
 ```
-git clone https://github.com/claudiaglez/ProyectoTres.git
+git clone https://github.com/claudiaglez/FinancialCalculator.git
 ```
 
 * Navigate to the directory:
 ```
-cd ProyectoTres
+cd FinancialCalculator
 ```
 
 * Open your IDE 
@@ -26,7 +26,7 @@ cd ProyectoTres
 
 ## :rocket: Deployment
 
-This project is deployed on Netlify [![My Skills](https://skillicons.dev/icons?i=netlify,)](https://calculatorprojectthree.netlify.app/)
+This project is deployed on [Netlify](https://calculatorprojectthree.netlify.app/){:target="_blank"}
   
 
 ## :open_hands: Contributions
@@ -41,4 +41,4 @@ Do you have any suggestion? Please, feel free to contact me or open an issue or 
 
 ## :sparkles: Credits
 
-Créditos de imagen de fondo: <a href="https://www.freepik.es/vector-gratis/diseno-plano-fondo-abstracto_19332474.htm#query=fondos%20pantalla%20divertidos&position=41&from_view=search&track=ais&uuid=e1e4b068-2d7e-449e-b8fc-5f6cd1c04943">Freepik</a>
+Bakground image credits to: <a href="https://www.freepik.es/vector-gratis/diseno-plano-fondo-abstracto_19332474.htm#query=fondos%20pantalla%20divertidos&position=41&from_view=search&track=ais&uuid=e1e4b068-2d7e-449e-b8fc-5f6cd1c04943">Freepik</a>
